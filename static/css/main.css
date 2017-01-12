@@ -46,23 +46,18 @@
 
 }
 .wrape{
-	position: relative;
+
 }
 .sidebar{
-	position: absolute; 
-	right:0;
-	top:0;
-	bottom:0;
+	
 }
 .catalog{
-	position: absolute; 
-	left: 0;
-	top:0;
-	bottom:0;
+	
 }
 .item-main{
 	padding: 20px;
 	text-align: center;
+	
 }
 .item-main button{
 	margin-top: 30px;
@@ -76,4 +71,7 @@
 }
 .item-main ul{
 	text-align: left;
+}
+.sidebar1{
+	
 }
