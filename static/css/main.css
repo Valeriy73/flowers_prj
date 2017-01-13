@@ -20,6 +20,12 @@
 	background-color: #C5EDC2;
 	text-align: center;
 }
+.main-view{
+	text-align: center;
+}
+.row-main{
+	background-color: #C5EDC2;
+}
 .cell{
 	padding: 10px;
 }
