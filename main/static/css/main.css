@@ -1,0 +1,83 @@
+.header{
+	max-height: 80px;
+	text-align: center;
+	margin-top: 30px;
+}
+.header img{
+	max-height: 80px;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+  background-color: #91be5b;
+}
+.nav > li > a {
+  background-color: #C5EDC2;
+  border: 1px solid #fff;
+}
+.catalog, .sidebar, .sidebar1, .item-main{
+	border: 1px solid black;
+}
+.catalog{
+	background-color: #C5EDC2;
+	text-align: center;
+}
+.main-view{
+	text-align: center;
+}
+.row-main{
+	background-color: #C5EDC2;
+}
+.cell{
+	padding: 10px;
+}
+.cell span{
+	
+	font-size: 30px;
+	color: red;
+}
+.cell a{
+	text-decoration: none;
+	color: #333;
+} 
+.cell:hover{
+	background: rgba(238, 238, 238, 0.5);
+}
+.pagination > li:first-child > a, .pagination > li:last-child > a {
+	background-color: #ffbbbb;
+}
+#footer{
+	text-align: center;
+	background-color: #808000;
+	margin-left: -15px;
+	margin-right: -15px;
+
+}
+.wrape{
+
+}
+.sidebar{
+	
+}
+.catalog{
+	
+}
+.item-main{
+	padding: 20px;
+	text-align: center;
+	
+}
+.item-main button{
+	margin-top: 30px;
+}
+.item-main p, .item-main ul{
+	margin-top: 10px;
+	font-size: 20px;
+}
+.item-main p span{
+	color: red;
+}
+.item-main ul{
+	text-align: left;
+}
+.sidebar1{
+	
+}
